@@ -15,9 +15,9 @@ const Header = () => {
   }
 
   return (
-    <div className="w-full h-[70px] z-50 top-2 flex justify-center items-center relative">
+    <div className="w-full h-[70px] z-50 top-2 flex justify-center items-center fixed">
 
-      <div className="w-[85%] h-[]  z-[100] flex justify-between items-center ">
+      <div className="w-[85%] h-[]  z-[100] flex justify-between items-center relative">
 
       <div className="text-gColor font-bold text-[23px] font-gFont">
           eben.
